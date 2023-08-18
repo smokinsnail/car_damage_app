@@ -1,6 +1,7 @@
 .jumbotron {
     background: none;
     position: fixed;
+    padding-top: 30px;
     left: 50px;
 }
 
